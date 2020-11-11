@@ -55,3 +55,27 @@
 display: block;
 margin: 0 auto;
 }
+.table-striped{
+    background-image: url("background.png");
+}
+footer{
+    text-align: center;
+}
+.things{
+    text-align: center;
+    background-image: url("background.png");
+    border: 1cm;
+}
+.aboutus{
+    padding-left: 5em;
+    padding-right: 5em;
+}
+.title { 
+    color: aqua;
+}
+.info{
+    padding-left: 5em;
+    padding-right: 5em;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
