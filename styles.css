@@ -1,49 +1,57 @@
-
-#carouselExampleIndicators{
-    padding: 10%;
+#carouselExampleIndicators {
+  padding: 10%;
 }
-#carousel-indicators{
-    padding: 10%;
+#carousel-indicators {
+  padding: 10%;
 }
-#carouselExampleIndicators{
-    padding: 10%;
+#carouselExampleIndicators {
+  padding: 10%;
 }
-.text{
-    text-align: center;
-    color: ;
+.text {
+  text-align: center;
+  color: ;
 }
 .flex-container {
-    justify-content: center;
-    display: flex;
-    margin: 50px;
+  justify-content: center;
+  display: flex;
+  margin: 50px;
+}
 
-  }
-  
-  .flex-container > div {
-    background-color: greenyellow;
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 20px;
-    padding: 15%;
-  }
-  .photo2 {
-    background-image: url("plumeriaRoom.jpg");
-    background-size: cover;
-    object-fit: contain;
+.flex-container > div {
+  background-color: greenyellow;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+  padding: 15%;
+}
+.photo2 {
+  background-image: url("plumeriaRoom.jpg");
+  background-size: cover;
+  object-fit: contain;
 }
 .photo1 {
-    background-image: url("maileRoom1.jpg");
-    background-size: cover;
-    object-fit: contain;
+  background-image: url("maileRoom1.jpg");
+  background-size: cover;
+  object-fit: contain;
 }
 .photo3 {
-    background-image: url("kailua4.jpg");
-    background-size: cover;
-    object-fit: contain;
+  background-image: url("kailua4.jpg");
+  background-size: cover;
+  object-fit: contain;
 }
-.contact-us{
-    text-align: center;
-    fill: blue;
-    
+.contact-us {
+  text-align: center;
+  fill: blue;
+}
+.place {
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+.maps {
+    width: 512px;
+display: block;
+margin: 0 auto;
 }
